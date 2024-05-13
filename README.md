@@ -4,5 +4,5 @@ This repository provides code solutions and explanations for exercises related t
 
 ## Features:
 
--- Answers to BASE Testnet Exercises: Explore code examples that address various BASE testnet exercise prompts.
--- Learning Resource: Gain practical experience working with BASE testnets through these exercises and solutions.
+Answers to BASE Testnet Exercises: Explore code examples that address various BASE testnet exercise prompts.
+Learning Resource: Gain practical experience working with BASE testnets through these exercises and solutions.
